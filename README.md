@@ -1,6 +1,6 @@
-# 🛡️ ScamAI — AI-Driven Spam Detection & Scam Engagement System
+# 🛡️ ScamAI - AI-Driven Spam Detection & Scam Engagement System
 
-> **MSc Project — Advanced Artificial Intelligence & Cybersecurity** · Semester Project 1
+> **MSc Project - Advanced Artificial Intelligence & Cybersecurity** · Semester Project 1
 
 A **two-stage** system for fighting online fraud:
 
